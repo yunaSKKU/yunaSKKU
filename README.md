@@ -8,7 +8,7 @@
 ### Noteworthy experiences and awards
 * Exchange Student at Indiana University Bloomington, USA (January-May 2019) (GPA: 3.925/4.00)
 * Attended the 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing (November 2019)
-* Undergraduate Teaching Assistant for the freshmen mandatory course <Computational Thinking and Coding> (March-June 2020) 
+* Undergraduate Teaching Assistant for the freshmen mandatory course Computational Thinking and Coding (March-June 2020) 
 * :trophy: Came in 2nd in the AI X Bookathon event held by the Sungkyunkwan University Library and the AI-solution company Mindslab (January 2021)
   
 ### Coursework
