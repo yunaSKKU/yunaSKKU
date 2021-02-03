@@ -1,7 +1,7 @@
 ## Greetings 👋
 
 ### Trivia
-* By becoming a fervent fan of Jaeyhyun of NCT, I came across two great artists H.E.R and Cigarettes After Sex. The songs of these artists are always playing in my room.
+* By becoming a fervent fan of Jaehyun of NCT, I came across two great artists H.E.R and Cigarettes After Sex. The songs of these artists are always playing in my room.
 * I got to represent my own country South Korea at a model UN held in-class when I was an exchange student at Indiana University Bloomington. I've written resolutions with the North Korea delegate to the United Nations arguing the importance of bringing official ceasefire of the Korean War.
 * Number one item on my wanted-gift list is 'hummus', hands-down. 
 
