@@ -1,8 +1,5 @@
 ## Greetings 👋
 
-<!--
-**yunaSKKU/yunaSKKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Trivia
 1. By becoming a fervent fan of Jaeyhyun of NCT, I came across two great artists H.E.R and Cigarettes After Sex. The songs of these artists are always playing in my room.
 2. I got to represent my own country South Korea at a model UN held in-class when I was an exchange student at Indiana University Bloomington. I've written resolutions with the North Korea delegate to the United Nations arguing the importance of bringing official ceasefire of the Korean War.
