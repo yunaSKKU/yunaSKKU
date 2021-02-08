@@ -1,7 +1,6 @@
 ## Greetings 👋
 
 ### Trivia
-* By becoming a fervent fan of Jaehyun of NCT, I came across two great artists H.E.R and Cigarettes After Sex. The songs of these artists are always playing in my room.
 * I got to represent my own country South Korea at a model UN held in-class when I was an exchange student at Indiana University Bloomington. I've written resolutions with the North Korea delegate to the United Nations arguing the importance of bringing official ceasefire of the Korean War.
 * Number one item on my wanted-gift list is 'hummus', hands-down. 
 
@@ -36,4 +35,4 @@ the Artificial Intelligence Department (College of Global Convergence), the Stat
 * Statistics Department Study P-SAT Data Mining Team (Current, Team Leader)
 * Artificial Intelligence Department Study COCO (2019.5~2020.11)
 * Leader of ambassador group 'alimi' for the College of Global Convergence (2019.5~2020.12)
-* Leader/Vice Leader of the English Conversation Club in Sungyunkwan University (2018.3~2019.12)
+
