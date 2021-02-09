@@ -19,15 +19,19 @@ the Artificial Intelligence Department (College of Global Convergence), the Stat
 * Computer Structures and System                
 * Machine Learning                              
 * Data Mining                                   
-* Software Engineering                         
+* Software Engineering
+* Artificial Intelligence Applications (benchmarking Stanford's CS231n)
+* Introduction to Deep Neural Networks
 
 2. Statistics
-* Introduction to Statistical Programming
 * Matrix Algebra
 * Sampling Theory
 * Investment Theory
+* Introduction to Mathematical Statistics
+* Introduction to Time Series Analysis
+* Statistical Simulation
 
-### Coursera certificates
+### Coursera Certificates
 * Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning (deeplearning.ai, achieved on January 25th, 2021)
 * SQL for Data Science (UC Davis, achieved on Feb 1st, 2021)
 
