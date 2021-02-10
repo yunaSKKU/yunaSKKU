@@ -6,7 +6,7 @@
 
 ### Noteworthy Experiences and Awards
 * Exchange Student at Indiana University Bloomington, USA (January-May 2019) (GPA: 3.925/4.00)
-* Attended the 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing (November 2019, @Austin,TX,USA)
+* Attended the 22nd ACM Conference on Computer-Supported Cooperative Work and Social Computing (November 2019, @ Austin,TX,USA)
 * Undergraduate Teaching Assistant for the freshmen mandatory course Computational Thinking and Coding (March-June 2020) 
 * :trophy: Came in 2nd in the AI X Bookathon event held by the Sungkyunkwan University Library and the AI-solution company Mindslab (January 2021)
   
@@ -36,7 +36,7 @@ the Artificial Intelligence Department (College of Global Convergence), the Stat
 * SQL for Data Science (UC Davis, achieved on Feb 1st, 2021)
 
 ### Affiliations (past, as well)
-* Statistics Department Study P-SAT Data Mining Team (Current, Team Leader)
+* Statistics Department Study P-SAT (Currently leading the Data Mining team, previously a member of the Regression Analysis team)
 * Artificial Intelligence Department Study COCO (2019.5~2020.11)
 * Leader of ambassador group 'Alimi' for the College of Global Convergence (2019.5~2020.12)
 
