@@ -32,8 +32,10 @@ the Artificial Intelligence Department (College of Global Convergence), the Stat
 * Statistical Simulation
 
 ### Coursera Certificates
+1. DeepLearning.AI TensorFlow Developer Professional Certificate 
 * Introduction to Tensorflow for Artificial Intelligence, Machine Learning, and Deep Learning (deeplearning.ai, achieved on January 25th, 2021)
-* SQL for Data Science (UC Davis, achieved on Feb 1st, 2021)
+* Convolutional Neural Networs in Tensorflow (deeplearning.ai, achieved on February 20th, 2021)
+2. SQL for Data Science (UC Davis, achieved on February 1st, 2021)
 
 ### Affiliations (past, as well)
 * Statistics Department Study P-SAT (Currently leading the Data Mining team, previously a member of the Regression Analysis team)
